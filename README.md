@@ -2,6 +2,10 @@
 
 A modern, feature-rich weather application with animated space background and comprehensive weather data.
 
+## 🌐 Live Demo
+
+[View Weather App](https://RavenGames.github.io/weather-app/)
+
 ## 🚀 Features
 
 - **Real-time Weather Data**: Current weather conditions using Open-Meteo API
